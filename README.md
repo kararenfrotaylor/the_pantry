@@ -1,2 +1,1 @@
-the_pantry
-changes
+"GitHub Checkpoint Assignment"
